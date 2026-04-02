@@ -130,6 +130,8 @@ hr{
 iframe{
     display: block;
     margin: 20px auto;
+    width:65%;
+    height:450px;
 }
 .favorite_place{
     text-align: center;
